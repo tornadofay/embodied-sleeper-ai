@@ -135,5 +135,5 @@ This thought experiment outlines a radical shift: AI not as a static service, bu
 
 ---
 
-*Proposed by: \[Your Name]*
+*Proposed by: \[Hani Essam El-Din]*
 Date: June 2025
