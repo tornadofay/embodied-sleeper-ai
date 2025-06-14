@@ -26,5 +26,5 @@ See [`LICENSE.md`](./LICENSE.md) for details.
 ## ✍️ Author
 
 Proposed by **Hani Essam El-Din**, June 2025  
-GitHub: [yourusername](https://github.com/yourusername)
+GitHub: [tornadofay](https://github.com/tornadofay)
 
