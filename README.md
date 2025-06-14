@@ -16,7 +16,7 @@ Inspired by biological systems, this proposal envisions:
 
 ## 📄 Paper
 
-You can read the full proposal in [`EmbodiedAISleep.md`](./EmbodiedAISleep.md)
+You can read the full proposal in [`paper.md`](./paper.md)
 
 ## 🪪 License
 
